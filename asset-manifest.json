@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c3461de.chunk.css",
-    "main.js": "/static/js/main.8fbb51b9.chunk.js",
-    "main.js.map": "/static/js/main.8fbb51b9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.87ed04df.js",
-    "runtime-main.js.map": "/static/js/runtime-main.87ed04df.js.map",
-    "static/js/2.61ee181d.chunk.js": "/static/js/2.61ee181d.chunk.js",
-    "static/js/2.61ee181d.chunk.js.map": "/static/js/2.61ee181d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.1c3461de.chunk.css.map": "/static/css/main.1c3461de.chunk.css.map",
-    "static/js/2.61ee181d.chunk.js.LICENSE.txt": "/static/js/2.61ee181d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/img-8.fabdf94d.jpg"
+    "main.css": "/react-website-manali/static/css/main.f3d3967e.chunk.css",
+    "main.js": "/react-website-manali/static/js/main.8fbb51b9.chunk.js",
+    "main.js.map": "/react-website-manali/static/js/main.8fbb51b9.chunk.js.map",
+    "runtime-main.js": "/react-website-manali/static/js/runtime-main.4e88a6ed.js",
+    "runtime-main.js.map": "/react-website-manali/static/js/runtime-main.4e88a6ed.js.map",
+    "static/js/2.61ee181d.chunk.js": "/react-website-manali/static/js/2.61ee181d.chunk.js",
+    "static/js/2.61ee181d.chunk.js.map": "/react-website-manali/static/js/2.61ee181d.chunk.js.map",
+    "index.html": "/react-website-manali/index.html",
+    "static/css/main.f3d3967e.chunk.css.map": "/react-website-manali/static/css/main.f3d3967e.chunk.css.map",
+    "static/js/2.61ee181d.chunk.js.LICENSE.txt": "/react-website-manali/static/js/2.61ee181d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-website-manali/static/media/img-8.fabdf94d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.87ed04df.js",
+    "static/js/runtime-main.4e88a6ed.js",
     "static/js/2.61ee181d.chunk.js",
-    "static/css/main.1c3461de.chunk.css",
+    "static/css/main.f3d3967e.chunk.css",
     "static/js/main.8fbb51b9.chunk.js"
   ]
 }
