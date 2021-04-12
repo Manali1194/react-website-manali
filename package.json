@@ -1,7 +1,6 @@
 {
   "name": "react-website-manali",
   "version": "0.1.0",
-  "homepage": "http://Manali1194.github.io/react-website-manali",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
