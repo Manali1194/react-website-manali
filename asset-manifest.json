@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-app-manali/static/css/main.1e561000.chunk.css",
+    "main.js": "/react-app-manali/static/js/main.a0bd3d03.chunk.js",
+    "main.js.map": "/react-app-manali/static/js/main.a0bd3d03.chunk.js.map",
+    "runtime-main.js": "/react-app-manali/static/js/runtime-main.bde31aae.js",
+    "runtime-main.js.map": "/react-app-manali/static/js/runtime-main.bde31aae.js.map",
+    "static/js/2.61ee181d.chunk.js": "/react-app-manali/static/js/2.61ee181d.chunk.js",
+    "static/js/2.61ee181d.chunk.js.map": "/react-app-manali/static/js/2.61ee181d.chunk.js.map",
+    "index.html": "/react-app-manali/index.html",
+    "static/css/main.1e561000.chunk.css.map": "/react-app-manali/static/css/main.1e561000.chunk.css.map",
+    "static/js/2.61ee181d.chunk.js.LICENSE.txt": "/react-app-manali/static/js/2.61ee181d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-app-manali/static/media/img-8.fabdf94d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bde31aae.js",
+    "static/js/2.61ee181d.chunk.js",
+    "static/css/main.1e561000.chunk.css",
+    "static/js/main.a0bd3d03.chunk.js"
+  ]
+}
