@@ -1,7 +1,7 @@
 import "./App.css";
 import Navbar from "./components/Navbar";
 import React from "react";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 import Services from "./components/pages/Services";
 import Products from "./components/pages/Products";
 import SignUp from "./components/pages/SignUp";
@@ -10,14 +10,12 @@ import Home from "./components/pages/Home";
 function App() {
   return (
     <>
-      <Router>
+      <Router basename="/">
         <Navbar />
-        <Switch>
-          <Route path="/" exact component={Home} />
-          <Route path="/services" component={Services} />
-          <Route path="/products" component={Products} />
-          <Route path="/sign-up" component={SignUp} />
-        </Switch>
+        <Route exact path="/" component={Home} />
+        <Route path="/services" component={Services} />
+        <Route path="/products" component={Products} />
+        <Route path="/sign-up" component={SignUp} />
       </Router>
     </>
   );
