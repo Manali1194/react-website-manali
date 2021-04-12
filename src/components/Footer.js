@@ -64,8 +64,8 @@ function Footer() {
         <div class="social-media-wrap">
           <div class="footer-logo">
             <Link to="/" className="social-logo">
-              DESTINATION
-              <i class="fas fa-globe-asia" />
+              DESTINATI
+              <i class="fas fa-globe-asia" />N
             </Link>
           </div>
           <small class="website-rights">DESTINATION © 2020</small>
