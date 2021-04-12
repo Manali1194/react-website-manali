@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-website-manali/static/css/main.dc9b47d4.chunk.css",
-    "main.js": "/react-website-manali/static/js/main.a0bd3d03.chunk.js",
-    "main.js.map": "/react-website-manali/static/js/main.a0bd3d03.chunk.js.map",
+    "main.js": "/react-website-manali/static/js/main.7cf930ba.chunk.js",
+    "main.js.map": "/react-website-manali/static/js/main.7cf930ba.chunk.js.map",
     "runtime-main.js": "/react-website-manali/static/js/runtime-main.4e88a6ed.js",
     "runtime-main.js.map": "/react-website-manali/static/js/runtime-main.4e88a6ed.js.map",
     "static/js/2.61ee181d.chunk.js": "/react-website-manali/static/js/2.61ee181d.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.4e88a6ed.js",
     "static/js/2.61ee181d.chunk.js",
     "static/css/main.dc9b47d4.chunk.css",
-    "static/js/main.a0bd3d03.chunk.js"
+    "static/js/main.7cf930ba.chunk.js"
   ]
 }
